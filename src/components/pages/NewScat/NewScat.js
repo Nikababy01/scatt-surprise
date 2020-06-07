@@ -13,4 +13,3 @@ class NewScat extends React.Component {
 }
 
 export default NewScat;
-
